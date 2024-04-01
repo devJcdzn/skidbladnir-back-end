@@ -5,7 +5,3 @@ content-type: application/json
     "name": "Test2",
     "contentType": "image/jpeg"
 }
-
-###
-
-GET http://localhost:3333/uploads/cluet58l60001s9zirnrrbtiz
